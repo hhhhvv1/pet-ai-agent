@@ -1,5 +1,7 @@
 # 🐾 Pet AI Agent (2026.03 ~ 2026.06)
 
+AI 에이전트 실행 영상 주소 : https://www.youtube.com/watch?v=XB44yB8qpQk
+
 반려동물의 건강 상태를 분석하고 기록을 관리할 수 있는 AI 기반 헬스케어 에이전트입니다.
 
 ## 📌 프로젝트 소개
